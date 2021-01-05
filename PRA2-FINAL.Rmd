@@ -735,7 +735,7 @@ write.csv(vinos ,"/Users/manutaberner/Google Drive/UOC/Tipologia y ciclos/PRAC2/
 library(knitr)
 tabl <- data.frame(
               Contribuciones = c("Investigación previa" , "Redacción de las respuestas" , "Desarrollo código" ),
-              Firma = c("Manuel Taberner y Andrés Perez" , "Manuel Taberner y Andrés Perez" , "Manuel Taberner y Andrés Perez" )
+              Firma = c("Manuel Taberner y Andrés Pérez" , "Manuel Taberner y Andrés Pérez" , "Manuel Taberner y Andrés Pérez" )
         )
 
 kable(tabl) # output the table in a format good for HTML/PDF/docx conversion

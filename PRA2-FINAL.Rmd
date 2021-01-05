@@ -729,7 +729,7 @@ write.csv(vinos ,"/Users/manutaberner/Google Drive/UOC/Tipologia y ciclos/PRAC2/
 
 # 7. Enlace a Github y contribuciones.
 
-[Pincha aquí para acceder a Github](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+> [Pincha aquí para acceder a Github](https://github.com/manutaberner/PRAC2-Tipologia)
 
 ```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
 library(knitr)
